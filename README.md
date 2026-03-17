@@ -53,7 +53,7 @@ The overall framework contains the following stages:
 
 ## Architecture Figure
 
-![Architecture](figures/main.png)
+![Architecture](main.jpeg)
 
 ---
 
