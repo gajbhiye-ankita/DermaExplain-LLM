@@ -167,8 +167,15 @@ DermaExplain-LLM/
 ├── README.md
 └── LICENSE
 
+## Installation
 
 
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/DermaExplain-LLM.git
+cd DermaExplain-LLM
+
+## Cite
 @inproceedings{gajbhiye2026dermaexplainllm,
   title={DermaExplain-LLM: Uncertainty-Aware Multimodal Skin Lesion Diagnosis with Attention-Guided Fusion and Patient-Friendly Explanations},
   author={Gajbhiye, Ankita Sandeep and Tian, Wenlong and Ingle, Palash Yuvraj},
