@@ -135,7 +135,7 @@ cd DermaExplain-LLM
 ## Cite
 @inproceedings{gajbhiye2026dermaexplainllm,
   title={DermaExplain-LLM: Uncertainty-Aware Multimodal Skin Lesion Diagnosis with Attention-Guided Fusion and Patient-Friendly Explanations},
-  author={Gajbhiye, Ankita Sandeep and Tian, Wenlong and Ingle, Palash Yuvraj},
+  author={Gajbhiye, Ankita Sandeep and Tian, Wenlong and Carson, Leung and Ingle, Palash Yuvraj},
   booktitle={Under Review},
   year={2026}
 }
